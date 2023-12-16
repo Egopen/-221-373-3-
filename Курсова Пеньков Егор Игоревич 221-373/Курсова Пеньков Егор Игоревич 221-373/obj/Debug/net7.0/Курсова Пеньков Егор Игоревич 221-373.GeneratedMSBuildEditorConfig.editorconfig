@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Курсова_Пеньков_Егор_Игоревич_221_373
+build_property.ProjectDir = C:\Users\Егор\OneDrive\Рабочий стол\курсовая\Курсова Пеньков Егор Игоревич 221-373\Курсова Пеньков Егор Игоревич 221-373\
